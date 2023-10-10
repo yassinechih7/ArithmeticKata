@@ -1,4 +1,3 @@
-![[Pasted image 20231010142925.png]]
 
 
 # ArithmeticKata CLI Trainer Tool
