@@ -1,4 +1,4 @@
 # ArithmeticKata
 ```bash
-curl -sSL <URL_TO_SCRIPT> | bash
+curl -sSL https://github.com/yassinechih7/ArithmeticKata/raw/main/arithmetickata.sh | bash
 ```
